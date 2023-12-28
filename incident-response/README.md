@@ -101,12 +101,12 @@
 ## Module 10: Security Policies and Incident Response
 
 ### 10.1 Security Policies in Incident Response  
-    - Developing and Enforcing Security Policies  
-    - Role of Policies in Incident Prevention  
+- Developing and Enforcing Security Policies  
+ - Role of Policies in Incident Prevention  
 
 ### 10.2 Developing an Incident Response Plan  
-    - Key Components of an Incident Response Plan  
-    - Plan Testing and Maintenance  
+- Key Components of an Incident Response Plan  
+- Plan Testing and Maintenance  
 
 
 

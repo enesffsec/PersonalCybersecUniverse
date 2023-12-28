@@ -90,3 +90,5 @@
 ### Certificates
 
 1. **Certificate**
+
+[WEB-300: Advanced Web Attacks and Exploitation OSWE Certification](https://www.offsec.com/courses/web-300/)
