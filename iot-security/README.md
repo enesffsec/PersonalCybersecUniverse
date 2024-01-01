@@ -149,3 +149,20 @@
    - Emerging technologies in IoT security
    - Standardization and evolving threats
    - Future challenges and opportunities
+
+
+### Blogs
+
+1. **Blogs**
+
+### Videos
+
+1. **Videos**
+
+### Repositories
+
+1. **Repo**
+
+### Certificates
+
+1. **Certificate**
