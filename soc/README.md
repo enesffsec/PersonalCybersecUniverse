@@ -66,4 +66,4 @@
 
 ### Certificates
 
-1. **Certificate**
+[ECCouncil Certified SOC Analys (C|SA)](https://www.eccouncil.org/train-certify/certified-soc-analyst-csa/)
