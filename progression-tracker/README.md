@@ -3,12 +3,10 @@
 ## To-Do List (Ongoing)
 
 - [ ] **Current todo**
-  - [ ] 
-  - [ ] 
+  - [ ] Some test
+  - [ ] Some test
 
-- [ ] **Cuurent todo-2**
-  - [ ] 
-  - [ ] 
+
 
 ## January 2024
 
@@ -19,10 +17,10 @@
 
 ### Week 2
 - [ ] **January 8-14**
-  - [ ] 
-  - [ ] 
+  - [ ] Some test
+  - [ ] Some Test
 
-...
+-----------------------------------
 
 ## February 2024
 
@@ -30,11 +28,4 @@
 - [ ] **February 1-7**
   - [ ] 
   - [ ] 
-
-### Week 2
-- [ ] **February 8-14**
-  - [ ] 
-  - [ ] 
-
-...
 
