@@ -16,6 +16,15 @@ The primary purpose of digital forensics is to investigate and analyze digital d
 - **Analysis:** Examining collected data to reconstruct events and identify patterns.
 - **Preservation:** Ensuring the integrity and admissibility of evidence for legal proceedings.
 
+### Digital Crime Scene Investigation Process
+
+![alt text](img/P2.png)
+
+
+#### Layers of Analysis
+
+![alt text](img/P3.png)
+
 ## Key Objectives and Goals of Digital Forensics Investigations
 
 ### Objectives:
