@@ -47,6 +47,10 @@
 
 1. **Blogs**
 
+### Courses
+
+[APISec University](https://www.apisecuniversity.com/#courses)
+
 ### Videos
 
 [Everything API Hacking - InsiderPhD](https://www.youtube.com/watch?v=yCUQBc2rY9Y&list=PLbyncTkpno5HqX1h2MnV6Qt4wvTb8Mpol)
