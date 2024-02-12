@@ -51,4 +51,4 @@
 
 IoT applications involve the integration of various devices, sensors, and software systems to enable the collection, analysis, and utilization of data for diverse purposes. These applications span across industries and domains
 
-![alt text](image.png)
+![alt text](img/P2.png)
